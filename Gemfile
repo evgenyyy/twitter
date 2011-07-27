@@ -1,11 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.9'
-gem 'ZenTest'
-gem 'autotest', '4.4.6'
-gem 'autotest-rails-pure', '4.1.2'
-gem 'autotest-fsevent', '0.2.4'
-gem 'autotest-growl','0.2.9'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
